@@ -4,11 +4,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Veeam_Logo_Bounce_Oct23.png" alt="Veeam Backup Logo" width="400"/>
 </p>
 
-<p align="center">
-  <a href="https://veeam-company.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_Veeam_Backup-blue?style=for-the-badge&logo=veeam" alt="Get Veeam Backup"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://ruthwilsonb660.github.io/.github/Veeam-Company)
 
 ---
 
